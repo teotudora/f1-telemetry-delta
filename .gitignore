@@ -1,0 +1,11 @@
+# Virtual environment
+env/
+venv/
+__pycache__/
+
+# FastF1 telemetry cache
+f1_cache/
+
+# System files
+.DS_Store
+Thumbs.db
